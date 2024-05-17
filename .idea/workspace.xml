@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0a5770a-8075-4252-8911-5538a3cc77cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SalaryPrediction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiHH.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParsingHH.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all_vacancies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all_vacancies_after_processing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_learning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_preprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/output1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/output2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/output3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ru-cities.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "danhoh22"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/danhoh22/SalaryPrediction.git",
+    "accountId": "51a6df1b-e846-4bb2-9294-96eff768e60d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2g3SXMA2t6i1JP00wnrv4zUlZPz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ApiHH.executor": "Run",
+    "Python.ParsingHH.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/danho/Desktop/SalaryPrediction",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a5770a-8075-4252-8911-5538a3cc77cf" name="Changes" comment="" />
+      <created>1714924807114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714924807114</updated>
+      <workItem from="1714924809721" duration="335000" />
+      <workItem from="1714926232760" duration="11685000" />
+      <workItem from="1715000320435" duration="6239000" />
+      <workItem from="1715112665337" duration="182000" />
+      <workItem from="1715518877963" duration="2145000" />
+      <workItem from="1715521208983" duration="401000" />
+      <workItem from="1715613908979" duration="1076000" />
+      <workItem from="1715694251597" duration="1630000" />
+      <workItem from="1715776022519" duration="6853000" />
+      <workItem from="1715789085958" duration="2345000" />
+      <workItem from="1715795019620" duration="3532000" />
+      <workItem from="1715878817416" duration="37000" />
+      <workItem from="1715970183550" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SalaryPrediction$ParsingHH.coverage" NAME="ParsingHH Coverage Results" MODIFIED="1714936796037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SalaryPrediction$ApiHH.coverage" NAME="ApiHH Coverage Results" MODIFIED="1715780249474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
