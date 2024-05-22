@@ -16,16 +16,25 @@ def get_area_ids():
         print("Ошибка при получении данных об областях")
         return []
 
-# Функция для получения данных о вакансиях из определенной области
+# Функция для получения данных о вакансиях из определенной области с ограничением на максимальное количество вакансий (2000)
 def get_vacancies_from_area(area_id):
     url = "https://api.hh.ru/vacancies"
-    params = {'area': area_id, 'per_page': 100}
-    response = requests.get(url, params=params)
-    if response.status_code == 200:
-        return response.json()['items']
-    else:
-        print(f"Ошибка при получении данных о вакансиях для области с ID {area_id}")
-        return []
+    params = {'area': area_id, 'per_page': 100, 'page': 0}  # Установите начальную страницу на 0 и увеличивайте ее по мере необходимости
+    total_vacancies = []
+    while True:
+        response = requests.get(url, params=params)
+        if response.status_code == 200:
+            data = response.json()
+            area_vacancies = data['items']
+            total_vacancies.extend(area_vacancies)
+            # len(total_vacancies) >= 2000 or
+            if len(total_vacancies) >= 2000 or not data['items']:  # Если достигнут лимит вакансий или больше нет вакансий, прерываем цикл
+                break
+            params['page'] += 1  # Увеличиваем номер страницы для следующего запроса
+        else:
+            print(f"Ошибка при получении данных о вакансиях для области с ID {area_id}")
+            break
+    return total_vacancies
 
 # Функция для обработки данных и записи в CSV
 def process_and_save_to_csv(vacancies, filename):

@@ -4,24 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0a5770a-8075-4252-8911-5538a3cc77cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SalaryPrediction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApiHH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ParsingHH.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_vacancies.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all_vacancies_after_processing.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_learning.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_preprocessing.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/output1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/output2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/output3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ru-cities.csv" afterDir="false" />
+    <list default="true" id="b0a5770a-8075-4252-8911-5538a3cc77cf" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiHH.py" beforeDir="false" afterPath="$PROJECT_DIR$/ApiHH.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_vacancies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_vacancies_after_processing.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_preprocessing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_preprocessing.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +26,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="danhoh22 &lt;danhoh22.khokhlov@yandex.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "danhoh22"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danhoh22&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/danhoh22/SalaryPrediction.git",
-    "accountId": "51a6df1b-e846-4bb2-9294-96eff768e60d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/danhoh22/SalaryPrediction.git&quot;,
+    &quot;accountId&quot;: &quot;51a6df1b-e846-4bb2-9294-96eff768e60d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -67,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/danho/Desktop/SalaryPrediction",
+    "last_opened_file_path": "C:/Users/danho/Desktop/SalaryPrediction/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,15 +98,39 @@
       <workItem from="1715789085958" duration="2345000" />
       <workItem from="1715795019620" duration="3532000" />
       <workItem from="1715878817416" duration="37000" />
-      <workItem from="1715970183550" duration="321000" />
+      <workItem from="1715970183550" duration="704000" />
+      <workItem from="1716298911794" duration="4848000" />
+      <workItem from="1716303933194" duration="1936000" />
+      <workItem from="1716385120362" duration="14728000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1715970672570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715970672570</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1715970815980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715970815980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SalaryPrediction$ParsingHH.coverage" NAME="ParsingHH Coverage Results" MODIFIED="1714936796037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SalaryPrediction$ApiHH.coverage" NAME="ApiHH Coverage Results" MODIFIED="1715780249474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SalaryPrediction$ApiHH.coverage" NAME="ApiHH Coverage Results" MODIFIED="1716401237600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
